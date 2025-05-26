@@ -31,9 +31,9 @@ Each method is fully documented in `/docs`.
 
 ## 📚 Docs
 
-* [GitHub App Setup](docs/github-app-setup.md)
-* [GitHub Native Workflow](docs/native-workflow.md)
-* [Azure Graph Workflow](docs/azure-graph-workflow.md)
+* [GitHub App Setup](./github-app-setup.md)
+* [GitHub Native Workflow](./native-workflow.md)
+* [Azure Graph Workflow](./azure-graph-workflow.md)
 
 ---
 
