@@ -10,7 +10,7 @@ Automatically notify your team when GitHub API usage is running low, so you can 
 
 ---
 
-## 📄 Workflow File: [gh-native-alert.yml]{.github/workflows/gh-native-alert.yml}
+## 📄 Workflow File: [gh-native-alert.yml](.github/workflows/gh-native-alert.yml)
 
 ---
 
