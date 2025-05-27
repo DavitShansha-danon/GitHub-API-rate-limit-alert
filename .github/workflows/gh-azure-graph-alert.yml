@@ -1,8 +1,8 @@
 name: GitHub Rate Limit Alert (Graph API)
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"  # run every 30 min
+#  schedule:
+#    - cron: "*/30 * * * *"  # run every 30 min
   workflow_dispatch:
 
 jobs:
